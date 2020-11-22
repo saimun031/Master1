@@ -1,0 +1,21 @@
+#include<stdio.h>
+int main()
+{
+    char ch;
+    float f;
+    double d;
+     ch='x';
+     f=100.123;
+     d=123.009;
+     printf("ch is %c", ch);
+     printf("f is %f", f);
+     printf("d is %d", d);
+
+     return 0;
+}
+int main;
+num=100;
+printf("the value is %d", num);
+
+returno;
+}
